@@ -1,0 +1,6 @@
+NAME=libndp
+VERSION=1.6
+REVISION=1
+LICENSE=LGPL-2.1-or-later
+SRC=http://libndp.org/files/libndp-1.6.tar.gz
+SRCMD5=1e54d26bcb4a4110bc3f90c5dd04f1a7
